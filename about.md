@@ -9,12 +9,12 @@ Here you'll find out some more information about who I am, what I've done, and w
 
 Here are just some of the technical skills that I have acquired.
 
-[x] I have a wide range of programming knowledge including languages such as; C/C++, C#, Lua and Python to name a few.
-[x] I have used several versioning systems, including Git and Perforce.
-[x] I have worked with APIs such as OpenGL, Box2D and Havok.
-[x] I have graduated with a BSc in Games Development.
-[x] I know how to work in several IDEs and Games Engines.
-[x] I work well in a team and I'm never afraid to help out.
+✓ I have a wide range of programming knowledge including languages such as; C/C++, C#, Lua and Python to name a few.
+✓ I have used several versioning systems, including Git and Perforce.
+✓ I have worked with APIs such as OpenGL, Box2D and Havok.
+✓ I have graduated with a BSc in Games Development.
+✓ I know how to work in several IDEs and Games Engines.
+✓ I work well in a team and I'm never afraid to help out.
 
 ### Accomplishments
 
