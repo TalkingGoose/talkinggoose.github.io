@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Here you'll find out some more information about who I am, what I've done, and what I can do.
 
-### Technical Skills
+## Technical Skills
 
 Here are just some of the technical skills that I have acquired.
 
@@ -16,7 +16,7 @@ Here are just some of the technical skills that I have acquired.
 ✓ I know how to work in several IDEs and Games Engines.
 ✓ I work well in a team and I'm never afraid to help out.
 
-### Accomplishments
+## Accomplishments
 
 Listed below are just a few of the things I've managed to accomplish while I've been placed here on this earth.
 
